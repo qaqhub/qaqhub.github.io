@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://qaqblog.github.io/</id>
+    <id>https://qaqhub.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-04-07T06:59:51.560Z</updated>
+    <updated>2020-04-07T07:00:35.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://qaqblog.github.io/"/>
-    <link rel="self" href="https://qaqblog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://qaqhub.github.io/"/>
+    <link rel="self" href="https://qaqhub.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://qaqblog.github.io/images/avatar.png</logo>
-    <icon>https://qaqblog.github.io/favicon.ico</icon>
+    <logo>https://qaqhub.github.io/images/avatar.png</logo>
+    <icon>https://qaqhub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Gridea博客的第一篇博文]]></title>
-        <id>https://qaqblog.github.io/post/test/</id>
-        <link href="https://qaqblog.github.io/post/test/">
+        <id>https://qaqhub.github.io/post/test/</id>
+        <link href="https://qaqhub.github.io/post/test/">
         </link>
         <updated>2020-04-07T03:37:20.000Z</updated>
         <content type="html"><![CDATA[<p>相比于jekyll，好像生成静态页面的速度更快。nice</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://qaqblog.github.io/post/hello-gridea/</id>
-        <link href="https://qaqblog.github.io/post/hello-gridea/">
+        <id>https://qaqhub.github.io/post/hello-gridea/</id>
+        <link href="https://qaqhub.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
